@@ -47,8 +47,8 @@ These results highlight the importance of pre-trained models and data augmentati
 
 
 ## Acknowledgments
-The DATASET used in this analysis is sourced from [Dogs vs. Cats](https://www.kaggle.com/datasets/salader/dogs-vs-cats) and is publicly available.
-Picture for test of dog is taken from [Image_Dog_Image by wirestock on Freepik]("https://www.freepik.com/free-photo/selective-focus-shot-adorable-golden-retriever-outdoors_17245779.htm#fromView=search&page=1&position=18&uuid=c7ae58bb-2949-4210-b54f-b229520c6422") 
+The DATASET used in this analysis is sourced from [KAGGLE_DOGSVSCATS]](https://www.kaggle.com/datasets/salader/dogs-vs-cats) and is publicly available.
+Picture for test of dog is taken from [Dog_Image_by_wirestock_on_Freepik](https://www.freepik.com/free-photo/selective-focus-shot-adorable-golden-retriever-outdoors_17245779.htm#fromView=search&page=1&position=18&uuid=c7ae58bb-2949-4210-b54f-b229520c6422) 
 while that of cat is taken from [Image_Cat_Ralphs_Fotos](https://pixabay.com/photos/cat-kitten-feline-whiskers-pet-8121892/)
 
 ## License
